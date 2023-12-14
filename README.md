@@ -35,8 +35,14 @@ Contributions are welcome! If you find potential enhancements or want to contrib
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-###Link to the PowerPoint Presentation
+### Link to the PowerPoint Presentation
 https://ironhackus-my.sharepoint.com/:p:/r/personal/regina_sequeira_ironhackus_onmicrosoft_com/Documents/DA%20Final%20Project.pptx?d=w7b1d4eed9beb433982ce69b41e7b533b&csf=1&web=1&e=EVrwly
+
+### Link To Tableau:
+https://public.tableau.com/app/profile/regina.sequeira/viz/DAFinal_17025921042350/Dashboard1?publish=yes
+
+### Link To Data 
+https://www.kaggle.com/datasets/brijlaldhankour/hair-loss-dataset
 
 Feel free to adjust or add more details as necessary to align with the specifics of your analysis and to provide clearer guidance for users exploring your repository.
 
