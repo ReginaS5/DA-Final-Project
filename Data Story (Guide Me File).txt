@@ -1,0 +1,30 @@
+# Data Story: "Exploring Hair Loss Prediction with Faulty Dataset"
+
+1. Introduction:
+Problem Statement: Address the aim to predict hair loss based on available values in the dataset.
+Data Overview: Briefly introduce the dataset, its features, and the initial expectations regarding predicting hair loss.
+
+
+2. Data Exploration:
+Initial Analysis: Share the process of exploring the scaled and standardized dataset.
+Model Development: Highlight the attempts to build predictive models (Linear Regression, Random Forest, Gradient Boosting).
+Challenges Encountered: Discuss the challenges faced due to the dataset's pre-processing, hindering predictive accuracy.
+Model Performance: Share the evaluation metrics (MSE, R2, MAE) indicating low model performance.
+
+
+3. Limitations and Realizations:
+Dataset Constraints: Emphasize the limitations imposed by the scaled and standardized nature of the dataset.
+Insights from Model Performance: Acknowledge the inability to derive meaningful insights or conclusions due to model inefficacy.
+Realization of Dataset Faultiness: Discuss the realization that the dataset's preprocessing limited meaningful analysis and prediction.
+
+
+4. Future Recommendations:
+Data Refinement: Suggest the necessity to work with raw, unscaled data to derive accurate predictions.
+Advanced Analysis: Highlight the potential for improved analysis if provided with accurate, unscaled data.
+Consideration for Next Steps: Discuss the need for revisiting the project with better-quality data for enhanced insights.
+
+
+5. Conclusion:
+Key Takeaways: Summarize the inability to predict hair loss due to the limitations of the preprocessed dataset.
+Learnings: Highlight lessons learned from encountering faulty data and the importance of data quality in analysis.
+Closing Remarks: Reiterate the need for accurate, clean data to derive valuable insights.
